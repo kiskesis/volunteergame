@@ -1,0 +1,8 @@
+.attributes-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.attributes-save-button {
+    margin-top: 15px;
+}

@@ -1,0 +1,11 @@
+.humanitarian {
+    display: flex;
+    justify-content: center;align-items: center;
+    padding: 5px;
+    background-color: white;
+}
+
+.humanitarian-img {
+    height: 75px;
+    width: 75px;
+}

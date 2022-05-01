@@ -1,0 +1,15 @@
+.left-arrow, .right-arrow {
+    height: 45px;
+    width: 45px;
+    cursor: pointer;
+}
+
+.attribute {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.attribute-name {
+    width: 100px;
+}

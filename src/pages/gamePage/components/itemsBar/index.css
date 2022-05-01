@@ -1,0 +1,26 @@
+.items-bar {
+    width: 50%;
+}
+
+.item-div {
+    background-image: url("../../assets/ItemBorder.svg");
+    width: 73px;
+    min-width: 73px;
+    height: 71px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.item-list {
+    display: flex;
+}
+
+.selected-item-div {
+    display: flex;
+}
+
+.item-description p {
+    margin: 0;
+}

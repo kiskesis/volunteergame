@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/nftzoo/static/css/main.39c46984.chunk.css",
+    "main.js": "/nftzoo/static/js/main.2de32450.chunk.js",
+    "main.js.map": "/nftzoo/static/js/main.2de32450.chunk.js.map",
+    "runtime-main.js": "/nftzoo/static/js/runtime-main.1b120f44.js",
+    "runtime-main.js.map": "/nftzoo/static/js/runtime-main.1b120f44.js.map",
+    "static/js/2.d6f39df7.chunk.js": "/nftzoo/static/js/2.d6f39df7.chunk.js",
+    "static/js/2.d6f39df7.chunk.js.map": "/nftzoo/static/js/2.d6f39df7.chunk.js.map",
+    "index.html": "/nftzoo/index.html",
+    "static/css/main.39c46984.chunk.css.map": "/nftzoo/static/css/main.39c46984.chunk.css.map",
+    "static/js/2.d6f39df7.chunk.js.LICENSE.txt": "/nftzoo/static/js/2.d6f39df7.chunk.js.LICENSE.txt",
+    "static/media/Fifth.9748a025.svg": "/nftzoo/static/media/Fifth.9748a025.svg",
+    "static/media/First.12b11c06.svg": "/nftzoo/static/media/First.12b11c06.svg",
+    "static/media/Food.42cb1384.svg": "/nftzoo/static/media/Food.42cb1384.svg",
+    "static/media/Fourth.4889d72f.svg": "/nftzoo/static/media/Fourth.4889d72f.svg",
+    "static/media/LoadingBorders (1).09b46704.svg": "/nftzoo/static/media/LoadingBorders (1).09b46704.svg",
+    "static/media/LoadingZone (1).aa7e9080.svg": "/nftzoo/static/media/LoadingZone (1).aa7e9080.svg",
+    "static/media/Second.286d27a8.svg": "/nftzoo/static/media/Second.286d27a8.svg",
+    "static/media/Third.09fe534d.svg": "/nftzoo/static/media/Third.09fe534d.svg",
+    "static/media/global.css": "/nftzoo/static/media/logo-white.a3d61d15.svg",
+    "static/media/support-ukraine.1c01012d.png": "/nftzoo/static/media/support-ukraine.1c01012d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b120f44.js",
+    "static/js/2.d6f39df7.chunk.js",
+    "static/css/main.39c46984.chunk.css",
+    "static/js/main.2de32450.chunk.js"
+  ]
+}

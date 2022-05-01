@@ -1,0 +1,33 @@
+.experience {
+    /*background: content-box url("../../assets/LoadingBorders (1).svg") no-repeat;*/
+    background-color: white;
+    /*height: 45px;*/
+    /*width: 263px;*/
+    display: flex;
+    position: relative;
+    max-width: 422px;
+}
+
+.loading-bar {
+    /*background: content-box url("../../assets/LoadingZone (1).svg") no-repeat;*/
+    overflow: hidden;
+    object-fit: cover;
+    height: 52px;
+    object-position: 100% 0;
+    /*padding: 13px 15px 10px 15px;*/
+    left: 20px;
+    top: 9px;
+    /*width: 246px;*/
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.experience-numbers {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-color: white;
+    font-size: 12px;
+}
