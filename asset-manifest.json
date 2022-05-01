@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/nftzoo/static/css/main.6abce486.chunk.css",
+    "main.js": "/nftzoo/static/js/main.49a8c69f.chunk.js",
+    "main.js.map": "/nftzoo/static/js/main.49a8c69f.chunk.js.map",
+    "runtime-main.js": "/nftzoo/static/js/runtime-main.1b120f44.js",
+    "runtime-main.js.map": "/nftzoo/static/js/runtime-main.1b120f44.js.map",
+    "static/js/2.1b27e542.chunk.js": "/nftzoo/static/js/2.1b27e542.chunk.js",
+    "static/js/2.1b27e542.chunk.js.map": "/nftzoo/static/js/2.1b27e542.chunk.js.map",
+    "index.html": "/nftzoo/index.html",
+    "static/css/main.6abce486.chunk.css.map": "/nftzoo/static/css/main.6abce486.chunk.css.map",
+    "static/js/2.1b27e542.chunk.js.LICENSE.txt": "/nftzoo/static/js/2.1b27e542.chunk.js.LICENSE.txt",
+    "static/media/Armor.6636116c.svg": "/nftzoo/static/media/Armor.6636116c.svg",
+    "static/media/Basic volunteer.75e04a0b.svg": "/nftzoo/static/media/Basic volunteer.75e04a0b.svg",
+    "static/media/Bicycle.f775730a.svg": "/nftzoo/static/media/Bicycle.f775730a.svg",
+    "static/media/Car.8352c816.svg": "/nftzoo/static/media/Car.8352c816.svg",
+    "static/media/CarLoader.f3e0324a.svg": "/nftzoo/static/media/CarLoader.f3e0324a.svg",
+    "static/media/Helmet.08ec5b8f.svg": "/nftzoo/static/media/Helmet.08ec5b8f.svg",
+    "static/media/Humanitarian.cab8a070.svg": "/nftzoo/static/media/Humanitarian.cab8a070.svg",
+    "static/media/index.css": "/nftzoo/static/media/ItemBorder.c793133d.svg",
+    "static/media/Left Arrow.521c8768.svg": "/nftzoo/static/media/Left Arrow.521c8768.svg",
+    "static/media/LoadingBorders (1).09b46704.svg": "/nftzoo/static/media/LoadingBorders (1).09b46704.svg",
+    "static/media/LoadingZone (1).aa7e9080.svg": "/nftzoo/static/media/LoadingZone (1).aa7e9080.svg",
+    "static/media/Right Arrow.44f0a05d.svg": "/nftzoo/static/media/Right Arrow.44f0a05d.svg",
+    "static/media/global.css": "/nftzoo/static/media/logo-white.a3d61d15.svg",
+    "static/media/support-ukraine.1c01012d.png": "/nftzoo/static/media/support-ukraine.1c01012d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b120f44.js",
+    "static/js/2.1b27e542.chunk.js",
+    "static/css/main.6abce486.chunk.css",
+    "static/js/main.49a8c69f.chunk.js"
+  ]
+}
