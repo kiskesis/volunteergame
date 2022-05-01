@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/volunteergame/static/css/main.36bc3080.chunk.css",
-    "main.js": "/volunteergame/static/js/main.1d6e4f9d.chunk.js",
-    "main.js.map": "/volunteergame/static/js/main.1d6e4f9d.chunk.js.map",
-    "runtime-main.js": "/volunteergame/static/js/runtime-main.60fa1019.js",
-    "runtime-main.js.map": "/volunteergame/static/js/runtime-main.60fa1019.js.map",
-    "static/js/2.60d45413.chunk.js": "/volunteergame/static/js/2.60d45413.chunk.js",
-    "static/js/2.60d45413.chunk.js.map": "/volunteergame/static/js/2.60d45413.chunk.js.map",
+    "main.js": "/volunteergame/static/js/main.3f4b0475.chunk.js",
+    "main.js.map": "/volunteergame/static/js/main.3f4b0475.chunk.js.map",
+    "runtime-main.js": "/volunteergame/static/js/runtime-main.f88c851b.js",
+    "runtime-main.js.map": "/volunteergame/static/js/runtime-main.f88c851b.js.map",
+    "static/js/2.563c57d0.chunk.js": "/volunteergame/static/js/2.563c57d0.chunk.js",
+    "static/js/2.563c57d0.chunk.js.map": "/volunteergame/static/js/2.563c57d0.chunk.js.map",
     "index.html": "/volunteergame/index.html",
     "static/css/main.36bc3080.chunk.css.map": "/volunteergame/static/css/main.36bc3080.chunk.css.map",
-    "static/js/2.60d45413.chunk.js.LICENSE.txt": "/volunteergame/static/js/2.60d45413.chunk.js.LICENSE.txt",
+    "static/js/2.563c57d0.chunk.js.LICENSE.txt": "/volunteergame/static/js/2.563c57d0.chunk.js.LICENSE.txt",
     "static/media/Armor.6636116c.svg": "/volunteergame/static/media/Armor.6636116c.svg",
     "static/media/Basic volunteer.75e04a0b.svg": "/volunteergame/static/media/Basic volunteer.75e04a0b.svg",
     "static/media/Bicycle.f775730a.svg": "/volunteergame/static/media/Bicycle.f775730a.svg",
@@ -26,9 +26,9 @@
     "static/media/support-ukraine.1c01012d.png": "/volunteergame/static/media/support-ukraine.1c01012d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.60fa1019.js",
-    "static/js/2.60d45413.chunk.js",
+    "static/js/runtime-main.f88c851b.js",
+    "static/js/2.563c57d0.chunk.js",
     "static/css/main.36bc3080.chunk.css",
-    "static/js/main.1d6e4f9d.chunk.js"
+    "static/js/main.3f4b0475.chunk.js"
   ]
 }
